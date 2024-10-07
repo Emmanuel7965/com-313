@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "1XMwSQP6HRGfM/VvZNH6VKiMyY34W00XCCy3H1100icoCzd179pFE4y/gn7u7YhN088uvmNHEUCOYLWS4nMHIA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "1XMwSQP6HRGfM/VvZNH6VKiMyY34W00XCCy3H1100icoCzd179pFE4y/gn7u7YhN088uvmNHEUCOYLWS4nMHIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> decc36c (first commit)
 }

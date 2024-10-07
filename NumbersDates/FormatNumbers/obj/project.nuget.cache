@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "1Wg+KCBdjBQTVXO2Q5ySGHP4nzA7y0zBARYUtAlTcJHnhL1q1GSRS87yn0MFvxhS3AN7SHxbk55T7LVYT8Pe8g==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "1Wg+KCBdjBQTVXO2Q5ySGHP4nzA7y0zBARYUtAlTcJHnhL1q1GSRS87yn0MFvxhS3AN7SHxbk55T7LVYT8Pe8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\NumbersDates\\FormatNumbers\\FormatNumbers.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> decc36c (first commit)
 }

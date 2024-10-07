@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "/j0ZNOmcUeRqJaxuIZIBnlDXxetyYTEGHJhEIBtfaqq4Yuko58b/grZmGSjoU50XfHUatYA2jXdeKxk31vhxKA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "/j0ZNOmcUeRqJaxuIZIBnlDXxetyYTEGHJhEIBtfaqq4Yuko58b/grZmGSjoU50XfHUatYA2jXdeKxk31vhxKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> decc36c (first commit)
 }

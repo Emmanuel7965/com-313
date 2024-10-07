@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.exe
 C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.deps.json
 C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\refint\M
 C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.pdb
 C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.genruntimeconfig.cache
 C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\ref\Manipulation.dll
+=======
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.exe
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.deps.json
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.runtimeconfig.json
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.dll
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\bin\Debug\net6.0\Manipulation.pdb
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.csproj.AssemblyReference.cache
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfoInputs.cache
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfo.cs
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.dll
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\refint\Manipulation.dll
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.pdb
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.genruntimeconfig.cache
+C:\Users\EMMANUEL\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\ref\Manipulation.dll
+>>>>>>> decc36c (first commit)
