@@ -36,13 +36,16 @@ Console.WriteLine(outstr);
 // TODO: String Comparison
 
 // Equals just returns a regular Boolean
-// bool isEqual = str2.Equals(str3);
-// Console.WriteLine($"{isEqual}");
+ bool isEqual = str2.Equals(str3);
+ Console.WriteLine($"{isEqual}");
 
 // Compare will perform an ordinal comparison and return:
 // < 0 : first string comes before second in sort order
 // 0 : first and second strings are same position in sort order
 // > 0 : first string comes after the second in sort order
-
+ int result =  string.Compare(str2, "This is a string");
+ Console.WriteLine($"{result}");
 
 // TODO: Replacing content
+string outstr1 = str1.Replace("fox", "cat");
+Console.WriteLine($"{outstr1}");
