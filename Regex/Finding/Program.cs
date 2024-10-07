@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for using Regex to find patterns
 using System.Text.RegularExpressions;
@@ -23,6 +24,8 @@ string teststr2 = "the quick brown fox jumps over the lazy dog";
 // TODO: The Matches method returns a collection of Match objects
 
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for using Regex to find patterns
 using System.Text.RegularExpressions;
@@ -46,4 +49,7 @@ string teststr2 = "the quick brown fox jumps over the lazy dog";
 
 // TODO: The Matches method returns a collection of Match objects
 
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

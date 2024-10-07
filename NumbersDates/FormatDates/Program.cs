@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for formatting date information
 
@@ -28,6 +29,8 @@ DateTime AprFools = new DateTime(2025, 4, 1, 13, 23, 30);
 
 // TODO: Defining custom date and time formats
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for formatting date information
 
@@ -56,4 +59,7 @@ DateTime AprFools = new DateTime(2025, 4, 1, 13, 23, 30);
 
 
 // TODO: Defining custom date and time formats
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

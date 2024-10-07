@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Creating and Deleting Directories
 
@@ -24,6 +25,8 @@ const string dirname = "TestDir";
 
 // Console.WriteLine("All directory contents:");
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Creating and Deleting Directories
 
@@ -48,4 +51,7 @@ const string dirname = "TestDir";
 // Console.WriteLine("---------------");
 
 // Console.WriteLine("All directory contents:");
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

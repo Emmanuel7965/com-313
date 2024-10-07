@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "1jbwCeZxiDHIya/ZOklT52pjabRZC64oPRf/6+v1WOaqJcKHfWlEh5QvKq8ixcpInIpoefLF05aoZZXz/WNrwA==",
@@ -7,6 +8,8 @@
   "expectedPackageFiles": [],
   "logs": []
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "version": 2,
   "dgSpecHash": "1jbwCeZxiDHIya/ZOklT52pjabRZC64oPRf/6+v1WOaqJcKHfWlEh5QvKq8ixcpInIpoefLF05aoZZXz/WNrwA==",
@@ -14,5 +17,8 @@
   "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\Strings\\Interpolation\\Interpolation.csproj",
   "expectedPackageFiles": [],
   "logs": []
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

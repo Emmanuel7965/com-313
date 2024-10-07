@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Working with file information
 
@@ -20,6 +21,8 @@ if (!File.Exists(filename)) {
 // TODO: File information can also be manipulated
 
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Working with file information
 
@@ -40,4 +43,7 @@ if (!File.Exists(filename)) {
 
 // TODO: File information can also be manipulated
 
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

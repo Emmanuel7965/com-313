@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 is_global = true
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
@@ -10,6 +11,8 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Formatting
 build_property.ProjectDir = C:\Users\EMMANUEL\Documents\Start\Strings\Formatting\
 =======
+=======
+>>>>>>> decc36c (first commit)
 is_global = true
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
@@ -20,4 +23,7 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Formatting
 build_property.ProjectDir = C:\Users\EMMANUEL\Documents\Start\Strings\Formatting\
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

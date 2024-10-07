@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for manipulating string content
 
@@ -48,6 +49,8 @@ Console.WriteLine(outstr);
 
 // TODO: Replacing content
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for manipulating string content
 
@@ -96,4 +99,7 @@ Console.WriteLine(outstr);
 
 
 // TODO: Replacing content
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

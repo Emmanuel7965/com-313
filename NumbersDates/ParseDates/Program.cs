@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for parsing dates from strings
 
@@ -18,6 +19,8 @@ foreach (string datestr in sampleDateTimes) {
     // TODO: Use the static class function TryParse to try parsing the dates
 }
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for parsing dates from strings
 
@@ -36,4 +39,7 @@ foreach (string datestr in sampleDateTimes) {
     DateTime result;
     // TODO: Use the static class function TryParse to try parsing the dates
 }
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

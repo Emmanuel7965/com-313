@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Reading and Writing data from and to files
 
@@ -19,6 +20,8 @@ if (!File.Exists(filename)) {
 // TODO 2: ReadAllText reads all the content from a file
 
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Reading and Writing data from and to files
 
@@ -38,4 +41,7 @@ if (!File.Exists(filename)) {
 
 // TODO 2: ReadAllText reads all the content from a file
 
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

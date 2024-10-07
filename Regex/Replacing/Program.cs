@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
 // Example file for Replacing content with Regexes 
 using System.Text.RegularExpressions;
@@ -15,6 +16,8 @@ Regex CapWords = new Regex(@"[A-Z]\w+");
 // This is a delegate that computes the new value of the replacement
 
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
 // Example file for Replacing content with Regexes 
 using System.Text.RegularExpressions;
@@ -30,4 +33,7 @@ Regex CapWords = new Regex(@"[A-Z]\w+");
 // TODO: Replacement text can be generated on the fly using MatchEvaluator
 // This is a delegate that computes the new value of the replacement
 
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

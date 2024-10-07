@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 
 // String Interpolation is a feature that enables the easy insertion of data
@@ -21,6 +22,8 @@ Console.WriteLine($"{c} in upper-case is {c.ToUpper()}");
 // TODO: Complex objects can be embedded in strings this way as well
 
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 
 // String Interpolation is a feature that enables the easy insertion of data
@@ -42,4 +45,7 @@ Console.WriteLine($"{c} in upper-case is {c.ToUpper()}");
 
 // TODO: Complex objects can be embedded in strings this way as well
 
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

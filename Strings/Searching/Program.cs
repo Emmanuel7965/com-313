@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for searching string content
 
@@ -19,6 +20,8 @@ string str1 = null;
 string str2 = "   ";
 string str3 = String.Empty;
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for searching string content
 
@@ -38,4 +41,7 @@ string teststr = "The quick brown Fox jumps over the lazy Dog";
 string str1 = null;
 string str2 = "   ";
 string str3 = String.Empty;
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

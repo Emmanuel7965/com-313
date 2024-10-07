@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v6.0",
@@ -22,6 +23,8 @@
     }
   }
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v6.0",
@@ -44,5 +47,8 @@
       "sha512": ""
     }
   }
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

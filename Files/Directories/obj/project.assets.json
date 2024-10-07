@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "version": 3,
   "targets": {
@@ -65,6 +66,8 @@
     }
   }
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "version": 3,
   "targets": {
@@ -130,5 +133,8 @@
       }
     }
   }
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

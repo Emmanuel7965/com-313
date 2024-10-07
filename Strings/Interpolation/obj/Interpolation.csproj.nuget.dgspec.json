@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "format": 1,
   "restore": {
@@ -60,6 +61,8 @@
     }
   }
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "format": 1,
   "restore": {
@@ -120,5 +123,8 @@
       }
     }
   }
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -164,6 +165,8 @@ Global
 	EndGlobalSection
 EndGlobal
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -328,4 +331,7 @@ Global
 		SolutionGuid = {015551E1-44ED-4CEE-827A-26BD32494632}
 	EndGlobalSection
 EndGlobal
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

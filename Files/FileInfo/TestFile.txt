@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a text file.
+=======
+This is a text file.
+>>>>>>> decc36c (first commit)
 =======
 This is a text file.
 >>>>>>> decc36c (first commit)

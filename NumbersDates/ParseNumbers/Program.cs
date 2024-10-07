@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for parsing numerical data from strings
 
@@ -17,6 +18,8 @@ foreach (string str in NumStrs) {
 // TODO: The TryParse method returns 'true' if the parse is successful
 
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for parsing numerical data from strings
 
@@ -34,4 +37,7 @@ foreach (string str in NumStrs) {
 
 // TODO: The TryParse method returns 'true' if the parse is successful
 
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

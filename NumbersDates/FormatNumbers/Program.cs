@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for formatting numerical data in .NET
 
@@ -25,6 +26,8 @@ decimal val2 = 1234.5678m;
 // Console.WriteLine("International Sales:");
 // Console.WriteLine($"{intlMixPct[0]} {intlMixPct[1]} {intlMixPct[2]} {intlMixPct[3]}");
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for formatting numerical data in .NET
 
@@ -50,4 +53,7 @@ decimal val2 = 1234.5678m;
 // Console.WriteLine($"{sales[0]} {sales[1]} {sales[2]} {sales[3]}");
 // Console.WriteLine("International Sales:");
 // Console.WriteLine($"{intlMixPct[0]} {intlMixPct[1]} {intlMixPct[2]} {intlMixPct[3]}");
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

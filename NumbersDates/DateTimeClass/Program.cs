@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for working with Dates and Times
 
@@ -23,6 +24,8 @@
 
 // TODO: Dates can be compared using regular operators
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Example file for working with Dates and Times
 
@@ -46,4 +49,7 @@
 // DateTime NewYears = new DateTime(now.Year, 1, 1);
 
 // TODO: Dates can be compared using regular operators
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

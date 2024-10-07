@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
 // Using Timeout settings for RegEx in .NET
 using System.Text.RegularExpressions;
@@ -27,6 +28,8 @@ catch (Exception e) {
     Console.WriteLine(e);
 }
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
 // Using Timeout settings for RegEx in .NET
 using System.Text.RegularExpressions;
@@ -54,4 +57,7 @@ try {
 catch (Exception e) {
     Console.WriteLine(e);
 }
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

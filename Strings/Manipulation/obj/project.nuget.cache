@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "w+9sJoHXa2citBfkC1WxH8TOSAUD/ZYTIF3lwRG/Yumk0ZM0dulF6EYegyTYSHIiTRV7K8wE/RcyG9l1AXDbjg==",
@@ -7,6 +8,8 @@
   "expectedPackageFiles": [],
   "logs": []
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "version": 2,
   "dgSpecHash": "w+9sJoHXa2citBfkC1WxH8TOSAUD/ZYTIF3lwRG/Yumk0ZM0dulF6EYegyTYSHIiTRV7K8wE/RcyG9l1AXDbjg==",
@@ -14,5 +17,8 @@
   "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\Strings\\Manipulation\\Manipulation.csproj",
   "expectedPackageFiles": [],
   "logs": []
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

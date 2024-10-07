@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "Fdwz3Je9GMZWHX2uMnTjbkmgHFfKK10Fy5JLfJRWMeos1NhHhMpaBcxBIRSl5AZh/OcCPbM3e36ZlaELWH+75Q==",
@@ -7,6 +8,8 @@
   "expectedPackageFiles": [],
   "logs": []
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "version": 2,
   "dgSpecHash": "Fdwz3Je9GMZWHX2uMnTjbkmgHFfKK10Fy5JLfJRWMeos1NhHhMpaBcxBIRSl5AZh/OcCPbM3e36ZlaELWH+75Q==",
@@ -14,5 +17,8 @@
   "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\Strings\\Searching\\Searching.csproj",
   "expectedPackageFiles": [],
   "logs": []
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

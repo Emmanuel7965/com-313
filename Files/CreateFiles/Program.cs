@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Creating and Deleting Files
 
@@ -10,6 +11,8 @@ const string filename = "TestFile.txt";
 
 // TODO: Determine if a file exists
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Creating and Deleting Files
 
@@ -20,4 +23,7 @@ const string filename = "TestFile.txt";
 
 
 // TODO: Determine if a file exists
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

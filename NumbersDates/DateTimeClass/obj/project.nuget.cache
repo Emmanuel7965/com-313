@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "bQ1o3RGoaJF8zzGc7B/4JiKhhx9pC7owb1cRf9EG4oN42u7zqD/iTLUHOWSWCKWRe75QTmB2GgocPuwRPD4xEw==",
@@ -7,6 +8,8 @@
   "expectedPackageFiles": [],
   "logs": []
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "version": 2,
   "dgSpecHash": "bQ1o3RGoaJF8zzGc7B/4JiKhhx9pC7owb1cRf9EG4oN42u7zqD/iTLUHOWSWCKWRe75QTmB2GgocPuwRPD4xEw==",
@@ -14,5 +17,8 @@
   "projectFilePath": "C:\\Users\\EMMANUEL\\Documents\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

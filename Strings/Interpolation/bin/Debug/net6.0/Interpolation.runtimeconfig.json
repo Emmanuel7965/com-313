@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "net6.0",
@@ -8,6 +9,8 @@
     }
   }
 =======
+=======
+>>>>>>> decc36c (first commit)
 {
   "runtimeOptions": {
     "tfm": "net6.0",
@@ -16,5 +19,8 @@
       "version": "6.0.0"
     }
   }
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
 }

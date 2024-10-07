@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.exe
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.deps.json
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
@@ -15,6 +16,8 @@ C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConso
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll
 =======
+=======
+>>>>>>> decc36c (first commit)
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.exe
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.deps.json
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
@@ -30,4 +33,7 @@ C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\refint\
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.pdb
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\EMMANUEL\Documents\Start\Overview\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

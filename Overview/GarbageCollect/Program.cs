@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Demonstration of Garbage Collection
 
@@ -22,6 +23,8 @@ GC.Collect();
 Console.WriteLine($"Allocated memory is: {GC.GetTotalMemory(false)}");
 Console.ReadLine();
 =======
+=======
+>>>>>>> decc36c (first commit)
 ﻿// Application Programming .NET Programming with C# by Abdullahi Tijjani
 // Demonstration of Garbage Collection
 
@@ -44,4 +47,7 @@ GC.Collect();
 // Retrieve and print the updated total memory amount
 Console.WriteLine($"Allocated memory is: {GC.GetTotalMemory(false)}");
 Console.ReadLine();
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)

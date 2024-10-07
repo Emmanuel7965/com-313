@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.exe
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
@@ -15,6 +16,8 @@ C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
 =======
+=======
+>>>>>>> decc36c (first commit)
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.exe
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
@@ -30,4 +33,7 @@ C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\obj\Debug\net6.0\refint\Dat
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.pdb
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
 C:\Users\EMMANUEL\Documents\Start\Overview\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
+<<<<<<< HEAD
+>>>>>>> decc36c (first commit)
+=======
 >>>>>>> decc36c (first commit)
